@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/java prjs/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/batik-all-1.13.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/bcpkix-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/fontbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/graphics2d-0.30.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/pdfbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/java prjs/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
