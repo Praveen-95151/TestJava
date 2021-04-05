@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2021-04-05T14:10:00Z" finished-at="2021-04-05T14:10:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2021-04-05T14:10:00Z" finished-at="2021-04-05T14:10:00Z">
+      <class name="com.pk.actitime.users.createUser">
+        <test-method status="PASS" signature="testCreateUser()[pri:0, instance:com.pk.actitime.users.createUser@31dc339b]" name="testCreateUser" duration-ms="16" started-at="2021-04-05T19:40:00Z" finished-at="2021-04-05T19:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- com.pk.actitime.users.createUser -->
+      <class name="com.pk.actitime.users.deleteUser">
+        <test-method status="PASS" signature="testDeleteUser()[pri:0, instance:com.pk.actitime.users.deleteUser@71318ec4]" name="testDeleteUser" duration-ms="0" started-at="2021-04-05T19:40:00Z" finished-at="2021-04-05T19:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- com.pk.actitime.users.deleteUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
